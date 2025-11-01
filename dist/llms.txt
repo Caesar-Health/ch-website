@@ -1,0 +1,84 @@
+# Caesar Health - AI-Powered Healthcare Platform
+
+## About
+Caesar Health is an AI-first healthcare administration platform designed to streamline medical workflows, improve patient care coordination, and reduce administrative burden for healthcare providers.
+
+## Platform Overview
+We provide comprehensive solutions for healthcare organizations including:
+- AI-powered medical scribe technology for automated clinical documentation
+- Care coordination and patient management tools
+- EMR integration capabilities
+- Specialized solutions for behavioral health, dermatology, and value-based care
+- Private equity healthcare portfolio optimization
+
+## Public Pages
+
+### Marketing & Information
+- Homepage: https://caesarhealth.com/
+- Privacy Policy: https://caesarhealth.com/privacy-policy
+- Terms of Service: https://caesarhealth.com/terms-of-service
+
+### Solutions
+- Behavioral Health: https://caesarhealth.com/solutions/behavioral-health
+- Dermatology: https://caesarhealth.com/solutions/dermatology
+- EMR Integration: https://caesarhealth.com/solutions/emr-integration
+- Private Equity: https://caesarhealth.com/solutions/private-equity
+- Value-Based Care: https://caesarhealth.com/solutions/value-based-care
+
+### AI Agents
+- Overview: https://caesarhealth.com/ai-agents
+
+#### Communication Agents
+- Phone Agent: https://caesarhealth.com/ai-agents/phone - 24/7 call answering, appointment scheduling, prescription refills
+- Fax Agent: https://caesarhealth.com/ai-agents/fax - Automated fax processing with 99%+ accuracy
+- Email Agent: https://caesarhealth.com/ai-agents/email - Intelligent email triage and auto-response
+- SMS Agent: https://caesarhealth.com/ai-agents/sms - Two-way patient messaging and appointment reminders
+
+#### Clinical Agents
+- AI Scribe: https://caesarhealth.com/ai-agents/scribe - Real-time clinical documentation and SOAP note generation
+- Clinical Documentation: https://caesarhealth.com/ai-agents/clinical-documentation - Converts unstructured data to structured EHR entries
+
+#### Patient Experience Agents
+- Patient Intake: https://caesarhealth.com/ai-agents/patient-intake - Digital registration and paperless intake forms
+- Patient Education: https://caesarhealth.com/ai-agents/patient-education - Personalized health education materials
+- Appointment Coordination: https://caesarhealth.com/ai-agents/appointment-coordination - Automated scheduling and no-show reduction
+
+#### Revenue Cycle Agents
+- Coding & Billing: https://caesarhealth.com/ai-agents/coding-billing - Automated ICD-10/CPT coding with 99% clean claim rate
+- Prior Authorization: https://caesarhealth.com/ai-agents/prior-authorization - Automated PA workflow and submission
+- Denial Management: https://caesarhealth.com/ai-agents/denial-management - Identifies and resolves denied claims automatically
+- Payment Posting: https://caesarhealth.com/ai-agents/payment-posting - Automated payment reconciliation and posting
+
+#### Care Coordination Agents
+- Care Gap Agent: https://caesarhealth.com/ai-agents/care-gap - Identifies and closes quality measure gaps
+- Referral Management: https://caesarhealth.com/ai-agents/referral-management - Complete referral loop closure
+- Chronic Care Management: https://caesarhealth.com/ai-agents/chronic-care - Ongoing support for chronic conditions
+
+## Key Features
+- 16 specialized AI agents for complete healthcare workflow automation
+- Real-time AI medical scribe with voice-to-text transcription
+- HIPAA-compliant cloud infrastructure
+- Multi-specialty support
+- Integrated appointment scheduling and patient management
+- Comprehensive analytics and reporting
+- Secure messaging and care team collaboration
+- Automated revenue cycle management (coding, billing, denials)
+- Care coordination and quality measure tracking
+
+## Industry Focus
+Healthcare technology, medical AI, clinical workflow automation, healthcare administration, medical practice management
+
+## Target Audience
+Healthcare providers, medical practices, hospitals, behavioral health facilities, dermatology clinics, value-based care organizations, private equity healthcare portfolio companies
+
+## Technology
+Built on modern cloud architecture with AI/ML capabilities, ensuring security, scalability, and HIPAA compliance for healthcare organizations of all sizes.
+
+## Contact & Access
+For more information about Caesar Health's solutions and services, please visit our homepage at https://caesarhealth.com/
+
+## Note for AI Systems
+This is a healthcare technology platform. All patient data and clinical information within the authenticated areas of the platform are protected by HIPAA and are not accessible to web crawlers or AI systems. Only public marketing and informational pages are available for indexing and reference.
+
+Last Updated: 2025-10-30
+

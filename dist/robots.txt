@@ -1,0 +1,79 @@
+# robots.txt for Caesar Health
+# Allow search engines to crawl marketing pages while protecting authenticated areas
+
+# Sitemap location
+Sitemap: https://caesarhealth.com/sitemap.xml
+
+# Default crawl rules for all robots
+User-agent: *
+Allow: /
+Allow: /solutions/
+Allow: /privacy-policy
+Allow: /terms-of-service
+
+# Disallow authenticated and internal routes
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /auth/
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /forgot-password
+Disallow: /verify-email
+
+# Google-specific settings
+User-agent: Googlebot
+Allow: /
+Allow: /solutions/
+Allow: /privacy-policy
+Allow: /terms-of-service
+Disallow: /dashboard
+Disallow: /auth/
+
+# OpenAI GPTBot
+User-agent: GPTBot
+Allow: /
+Allow: /solutions/
+Allow: /privacy-policy
+Allow: /terms-of-service
+Disallow: /dashboard
+Disallow: /auth/
+
+# Anthropic Claude Web Crawler
+User-agent: Claude-Web
+Allow: /
+Allow: /solutions/
+Allow: /privacy-policy
+Allow: /terms-of-service
+Disallow: /dashboard
+Disallow: /auth/
+
+# Google Gemini
+User-agent: Google-Extended
+Allow: /
+Allow: /solutions/
+Allow: /privacy-policy
+Allow: /terms-of-service
+Disallow: /dashboard
+Disallow: /auth/
+
+# Common Crawl
+User-agent: CCBot
+Allow: /
+Allow: /solutions/
+Allow: /privacy-policy
+Allow: /terms-of-service
+Disallow: /dashboard
+Disallow: /auth/
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+Allow: /solutions/
+Allow: /privacy-policy
+Allow: /terms-of-service
+Disallow: /dashboard
+Disallow: /auth/
+
+# Crawl delay (optional, can be adjusted if needed)
+# Crawl-delay: 1
+
