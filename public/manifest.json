@@ -1,0 +1,23 @@
+{
+  "name": "Caesar Health - AI-Powered Healthcare Administration Platform",
+  "short_name": "Caesar Health",
+  "description": "AI-first healthcare platform streamlining medical workflows with automated clinical documentation, care coordination, and EMR integration.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d97c2a",
+  "icons": [
+    {
+      "src": "/images/favicon_light.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon_light.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
