@@ -10,6 +10,8 @@ import { SpeedInsights } from '@vercel/speed-insights/react'
 import { DirectionProvider } from './context/direction-provider'
 import { FontProvider } from './context/font-provider'
 import { ThemeProvider } from './context/theme-provider'
+import { GATracker } from './components/ga-tracker'
+import { initGA } from './lib/analytics'
 // Generated Routes
 import { routeTree } from './routeTree.gen'
 // Styles
@@ -40,6 +42,9 @@ declare module '@tanstack/react-router' {
   }
 }
 
+// Initialize Google Analytics
+initGA()
+
 // Render the app
 const rootElement = document.getElementById('root')!
 if (!rootElement.innerHTML) {
@@ -51,6 +56,7 @@ if (!rootElement.innerHTML) {
           <FontProvider>
             <DirectionProvider>
               <RouterProvider router={router} />
+              <GATracker />
               <Analytics />
               <SpeedInsights />
             </DirectionProvider>
